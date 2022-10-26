@@ -1,0 +1,18 @@
+.lista-suspensa {
+  max-width: 100%;
+  display: block;
+}
+.lista-suspensa label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 18px;
+}
+.lista-suspensa select {
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+  background: white;
+  padding: 30px 21px;
+  width: 100%;
+  border: none;
+  font-size: 16px;
+}/*# sourceMappingURL=ListaSuspensa.css.map */
